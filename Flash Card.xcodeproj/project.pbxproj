@@ -1,0 +1,677 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		50085D2C1751D66B005F07BE /* FCDictionaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50085D2B1751D66B005F07BE /* FCDictionaryViewController.m */; };
+		50085D2F1751D866005F07BE /* FCDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 50085D2E1751D866005F07BE /* FCDataSource.m */; };
+		50085D331751DF6E005F07BE /* FCWordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50085D321751DF6E005F07BE /* FCWordViewController.m */; };
+		504820BC1765F3A100A1950F /* 1001330_533632990019213_297972750_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 504820B41765F3A100A1950F /* 1001330_533632990019213_297972750_n.jpg */; };
+		504820BE1765F3A100A1950F /* dic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 504820B61765F3A100A1950F /* dic.jpg */; };
+		504820C61765F61500A1950F /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820BF1765F61500A1950F /* button.png */; };
+		504820C71765F61500A1950F /* card.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820C01765F61500A1950F /* card.png */; };
+		504820C81765F61500A1950F /* din.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820C11765F61500A1950F /* din.png */; };
+		504820C91765F61500A1950F /* pen.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820C21765F61500A1950F /* pen.png */; };
+		504820CA1765F61500A1950F /* photo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820C31765F61500A1950F /* photo1.png */; };
+		504820CB1765F61500A1950F /* photo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820C41765F61500A1950F /* photo2.png */; };
+		504820CC1765F61500A1950F /* wood.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 504820C51765F61500A1950F /* wood.jpeg */; };
+		504820CE1765F98D00A1950F /* fol (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 504820CD1765F98D00A1950F /* fol (1).png */; };
+		504820D01765FA1D00A1950F /* Icon 拷貝.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820CF1765FA1D00A1950F /* Icon 拷貝.png */; };
+		504820D21765FA7E00A1950F /* App 57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 504820D11765FA7E00A1950F /* App 57x57.png */; };
+		506515C41763A77900B11D32 /* Dictionary.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 506515C21763A77900B11D32 /* Dictionary.xcdatamodeld */; };
+		507D88C2175DE070001E57B3 /* FlashCard.plist in Resources */ = {isa = PBXBuildFile; fileRef = 507D88C1175DE070001E57B3 /* FlashCard.plist */; };
+		507D88C5175F6769001E57B3 /* FCExerciseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 507D88C4175F6769001E57B3 /* FCExerciseViewController.m */; };
+		507D88C6175F6769001E57B3 /* FCExerciseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 507D88C4175F6769001E57B3 /* FCExerciseViewController.m */; };
+		507D88D0175F6D87001E57B3 /* FCTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 507D88CF175F6D87001E57B3 /* FCTableViewController.m */; };
+		507D88D1175F6D87001E57B3 /* FCTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 507D88CF175F6D87001E57B3 /* FCTableViewController.m */; };
+		507D88D4175F6DA7001E57B3 /* FCFlashCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 507D88D3175F6DA7001E57B3 /* FCFlashCell.m */; };
+		507D88D5175F6DA7001E57B3 /* FCFlashCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 507D88D3175F6DA7001E57B3 /* FCFlashCell.m */; };
+		509DFAB517548816005417FC /* HPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DFAB417548816005417FC /* HPViewController.m */; };
+		509DFAB617548816005417FC /* HPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DFAB417548816005417FC /* HPViewController.m */; };
+		50A36ECC17412FB70047C896 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50A36ECB17412FB70047C896 /* UIKit.framework */; };
+		50A36ECE17412FB70047C896 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50A36ECD17412FB70047C896 /* Foundation.framework */; };
+		50A36ED017412FB70047C896 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50A36ECF17412FB70047C896 /* CoreGraphics.framework */; };
+		50A36ED617412FB70047C896 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 50A36ED417412FB70047C896 /* InfoPlist.strings */; };
+		50A36ED817412FB70047C896 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A36ED717412FB70047C896 /* main.m */; };
+		50A36EDC17412FB70047C896 /* FCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A36EDB17412FB70047C896 /* FCAppDelegate.m */; };
+		50A36EDE17412FB70047C896 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 50A36EDD17412FB70047C896 /* Default.png */; };
+		50A36EE017412FB70047C896 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 50A36EDF17412FB70047C896 /* Default@2x.png */; };
+		50A36EE217412FB70047C896 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 50A36EE117412FB70047C896 /* Default-568h@2x.png */; };
+		50A36EE517412FB70047C896 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50A36EE317412FB70047C896 /* MainStoryboard.storyboard */; };
+		50A36EE817412FB70047C896 /* FCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A36EE717412FB70047C896 /* FCViewController.m */; };
+		50A36EF017412FB70047C896 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50A36EEF17412FB70047C896 /* SenTestingKit.framework */; };
+		50A36EF117412FB70047C896 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50A36ECB17412FB70047C896 /* UIKit.framework */; };
+		50A36EF217412FB70047C896 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50A36ECD17412FB70047C896 /* Foundation.framework */; };
+		50A36EFA17412FB70047C896 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 50A36EF817412FB70047C896 /* InfoPlist.strings */; };
+		50A36EFD17412FB70047C896 /* Flash_CardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A36EFC17412FB70047C896 /* Flash_CardTests.m */; };
+		50A36F071741302D0047C896 /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 50A36F061741302D0047C896 /* Property List.plist */; };
+		50A3A46B1760660600A84241 /* FCFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3A46A1760660600A84241 /* FCFirstViewController.m */; };
+		50A3A46C1760660600A84241 /* FCFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3A46A1760660600A84241 /* FCFirstViewController.m */; };
+		50B673501766B6B400A8BC73 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 50B6734F1766B6B400A8BC73 /* Icon.png */; };
+		50B673521766BBD400A8BC73 /* icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = 50B673511766BBD400A8BC73 /* icon2.png */; };
+		50E13ADE1753481F009DEE2E /* FCWordCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 50E13ADD1753481F009DEE2E /* FCWordCell.m */; };
+		50E73D8E1763BBFB006F00D2 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50E73D8D1763BBFB006F00D2 /* CoreData.framework */; };
+		50E73DDB1764DCD8006F00D2 /* FlashCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 50E73DDA1764DCD8006F00D2 /* FlashCard.m */; };
+		50EDA0B61765B5B000D19001 /* Dictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 50EDA0B51765B5B000D19001 /* Dictionary.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		50A36EF317412FB70047C896 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50A36EC017412FB70047C896 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 50A36EC717412FB70047C896;
+			remoteInfo = "Flash Card";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		50085D2A1751D66B005F07BE /* FCDictionaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDictionaryViewController.h; sourceTree = "<group>"; };
+		50085D2B1751D66B005F07BE /* FCDictionaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDictionaryViewController.m; sourceTree = "<group>"; };
+		50085D2D1751D866005F07BE /* FCDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDataSource.h; sourceTree = "<group>"; };
+		50085D2E1751D866005F07BE /* FCDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDataSource.m; sourceTree = "<group>"; };
+		50085D311751DF6E005F07BE /* FCWordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCWordViewController.h; sourceTree = "<group>"; };
+		50085D321751DF6E005F07BE /* FCWordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCWordViewController.m; sourceTree = "<group>"; };
+		504820B41765F3A100A1950F /* 1001330_533632990019213_297972750_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1001330_533632990019213_297972750_n.jpg; sourceTree = "<group>"; };
+		504820B61765F3A100A1950F /* dic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dic.jpg; sourceTree = "<group>"; };
+		504820BF1765F61500A1950F /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		504820C01765F61500A1950F /* card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card.png; sourceTree = "<group>"; };
+		504820C11765F61500A1950F /* din.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = din.png; sourceTree = "<group>"; };
+		504820C21765F61500A1950F /* pen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pen.png; sourceTree = "<group>"; };
+		504820C31765F61500A1950F /* photo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo1.png; sourceTree = "<group>"; };
+		504820C41765F61500A1950F /* photo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo2.png; sourceTree = "<group>"; };
+		504820C51765F61500A1950F /* wood.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wood.jpeg; sourceTree = "<group>"; };
+		504820CD1765F98D00A1950F /* fol (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fol (1).png"; sourceTree = "<group>"; };
+		504820CF1765FA1D00A1950F /* Icon 拷貝.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon 拷貝.png"; sourceTree = "<group>"; };
+		504820D11765FA7E00A1950F /* App 57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App 57x57.png"; sourceTree = "<group>"; };
+		506515C31763A77900B11D32 /* Dictionary.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Dictionary.xcdatamodel; sourceTree = "<group>"; };
+		507D88C1175DE070001E57B3 /* FlashCard.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FlashCard.plist; sourceTree = "<group>"; };
+		507D88C3175F6769001E57B3 /* FCExerciseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCExerciseViewController.h; sourceTree = "<group>"; };
+		507D88C4175F6769001E57B3 /* FCExerciseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCExerciseViewController.m; sourceTree = "<group>"; };
+		507D88CE175F6D87001E57B3 /* FCTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCTableViewController.h; sourceTree = "<group>"; };
+		507D88CF175F6D87001E57B3 /* FCTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCTableViewController.m; sourceTree = "<group>"; };
+		507D88D2175F6DA7001E57B3 /* FCFlashCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFlashCell.h; sourceTree = "<group>"; };
+		507D88D3175F6DA7001E57B3 /* FCFlashCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFlashCell.m; sourceTree = "<group>"; };
+		509DFAB317548816005417FC /* HPViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HPViewController.h; sourceTree = "<group>"; };
+		509DFAB417548816005417FC /* HPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HPViewController.m; sourceTree = "<group>"; };
+		50A36EC817412FB70047C896 /* Flash Card.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flash Card.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50A36ECB17412FB70047C896 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		50A36ECD17412FB70047C896 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		50A36ECF17412FB70047C896 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		50A36ED317412FB70047C896 /* Flash Card-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Flash Card-Info.plist"; sourceTree = "<group>"; };
+		50A36ED517412FB70047C896 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50A36ED717412FB70047C896 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		50A36ED917412FB70047C896 /* Flash Card-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Flash Card-Prefix.pch"; sourceTree = "<group>"; };
+		50A36EDA17412FB70047C896 /* FCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FCAppDelegate.h; sourceTree = "<group>"; };
+		50A36EDB17412FB70047C896 /* FCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FCAppDelegate.m; sourceTree = "<group>"; };
+		50A36EDD17412FB70047C896 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		50A36EDF17412FB70047C896 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		50A36EE117412FB70047C896 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		50A36EE417412FB70047C896 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		50A36EE617412FB70047C896 /* FCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FCViewController.h; sourceTree = "<group>"; };
+		50A36EE717412FB70047C896 /* FCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FCViewController.m; sourceTree = "<group>"; };
+		50A36EEE17412FB70047C896 /* Flash CardTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flash CardTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50A36EEF17412FB70047C896 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		50A36EF717412FB70047C896 /* Flash CardTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Flash CardTests-Info.plist"; sourceTree = "<group>"; };
+		50A36EF917412FB70047C896 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		50A36EFB17412FB70047C896 /* Flash_CardTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Flash_CardTests.h; sourceTree = "<group>"; };
+		50A36EFC17412FB70047C896 /* Flash_CardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flash_CardTests.m; sourceTree = "<group>"; };
+		50A36F061741302D0047C896 /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		50A3A4691760660600A84241 /* FCFirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFirstViewController.h; sourceTree = "<group>"; };
+		50A3A46A1760660600A84241 /* FCFirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFirstViewController.m; sourceTree = "<group>"; };
+		50B6734F1766B6B400A8BC73 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		50B673511766BBD400A8BC73 /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon2.png; sourceTree = "<group>"; };
+		50E13ADC1753481F009DEE2E /* FCWordCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCWordCell.h; sourceTree = "<group>"; };
+		50E13ADD1753481F009DEE2E /* FCWordCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCWordCell.m; sourceTree = "<group>"; };
+		50E73D8D1763BBFB006F00D2 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		50E73DD91764DCD8006F00D2 /* FlashCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlashCard.h; sourceTree = "<group>"; };
+		50E73DDA1764DCD8006F00D2 /* FlashCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlashCard.m; sourceTree = "<group>"; };
+		50EDA0B41765B5B000D19001 /* Dictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dictionary.h; sourceTree = "<group>"; };
+		50EDA0B51765B5B000D19001 /* Dictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dictionary.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		50A36EC517412FB70047C896 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50E73D8E1763BBFB006F00D2 /* CoreData.framework in Frameworks */,
+				50A36ECC17412FB70047C896 /* UIKit.framework in Frameworks */,
+				50A36ECE17412FB70047C896 /* Foundation.framework in Frameworks */,
+				50A36ED017412FB70047C896 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50A36EEA17412FB70047C896 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50A36EF017412FB70047C896 /* SenTestingKit.framework in Frameworks */,
+				50A36EF117412FB70047C896 /* UIKit.framework in Frameworks */,
+				50A36EF217412FB70047C896 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		50085D301751D87E005F07BE /* Data Source */ = {
+			isa = PBXGroup;
+			children = (
+				504820CD1765F98D00A1950F /* fol (1).png */,
+				504820BF1765F61500A1950F /* button.png */,
+				504820C01765F61500A1950F /* card.png */,
+				504820C11765F61500A1950F /* din.png */,
+				504820C21765F61500A1950F /* pen.png */,
+				504820C31765F61500A1950F /* photo1.png */,
+				504820C41765F61500A1950F /* photo2.png */,
+				504820C51765F61500A1950F /* wood.jpeg */,
+				504820B41765F3A100A1950F /* 1001330_533632990019213_297972750_n.jpg */,
+				504820B61765F3A100A1950F /* dic.jpg */,
+				506515C21763A77900B11D32 /* Dictionary.xcdatamodeld */,
+				50EDA0B41765B5B000D19001 /* Dictionary.h */,
+				50EDA0B51765B5B000D19001 /* Dictionary.m */,
+				50E73DD91764DCD8006F00D2 /* FlashCard.h */,
+				50E73DDA1764DCD8006F00D2 /* FlashCard.m */,
+				50085D2D1751D866005F07BE /* FCDataSource.h */,
+				50085D2E1751D866005F07BE /* FCDataSource.m */,
+				50A36F061741302D0047C896 /* Property List.plist */,
+				507D88C1175DE070001E57B3 /* FlashCard.plist */,
+			);
+			name = "Data Source";
+			sourceTree = "<group>";
+		};
+		507D88C7175F6789001E57B3 /* Exercise tab */ = {
+			isa = PBXGroup;
+			children = (
+				507D88C3175F6769001E57B3 /* FCExerciseViewController.h */,
+				507D88C4175F6769001E57B3 /* FCExerciseViewController.m */,
+			);
+			name = "Exercise tab";
+			sourceTree = "<group>";
+		};
+		507D88C8175F67A7001E57B3 /* Dictionary tab */ = {
+			isa = PBXGroup;
+			children = (
+				50085D2A1751D66B005F07BE /* FCDictionaryViewController.h */,
+				50085D2B1751D66B005F07BE /* FCDictionaryViewController.m */,
+				50085D311751DF6E005F07BE /* FCWordViewController.h */,
+				50085D321751DF6E005F07BE /* FCWordViewController.m */,
+				50E13ADC1753481F009DEE2E /* FCWordCell.h */,
+				50E13ADD1753481F009DEE2E /* FCWordCell.m */,
+			);
+			name = "Dictionary tab";
+			sourceTree = "<group>";
+		};
+		507D88C9175F67D9001E57B3 /* Flash Card tab */ = {
+			isa = PBXGroup;
+			children = (
+				507D88CE175F6D87001E57B3 /* FCTableViewController.h */,
+				507D88CF175F6D87001E57B3 /* FCTableViewController.m */,
+				507D88D2175F6DA7001E57B3 /* FCFlashCell.h */,
+				507D88D3175F6DA7001E57B3 /* FCFlashCell.m */,
+				50A36EE617412FB70047C896 /* FCViewController.h */,
+				50A36EE717412FB70047C896 /* FCViewController.m */,
+			);
+			name = "Flash Card tab";
+			sourceTree = "<group>";
+		};
+		50A36EBF17412FB60047C896 = {
+			isa = PBXGroup;
+			children = (
+				50B673511766BBD400A8BC73 /* icon2.png */,
+				50B6734F1766B6B400A8BC73 /* Icon.png */,
+				504820D11765FA7E00A1950F /* App 57x57.png */,
+				504820CF1765FA1D00A1950F /* Icon 拷貝.png */,
+				50A36ED117412FB70047C896 /* Flash Card */,
+				50A36EF517412FB70047C896 /* Flash CardTests */,
+				50A36ECA17412FB70047C896 /* Frameworks */,
+				50A36EC917412FB70047C896 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		50A36EC917412FB70047C896 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50A36EC817412FB70047C896 /* Flash Card.app */,
+				50A36EEE17412FB70047C896 /* Flash CardTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50A36ECA17412FB70047C896 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				50E73D8D1763BBFB006F00D2 /* CoreData.framework */,
+				50A36ECB17412FB70047C896 /* UIKit.framework */,
+				50A36ECD17412FB70047C896 /* Foundation.framework */,
+				50A36ECF17412FB70047C896 /* CoreGraphics.framework */,
+				50A36EEF17412FB70047C896 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		50A36ED117412FB70047C896 /* Flash Card */ = {
+			isa = PBXGroup;
+			children = (
+				50A36EE317412FB70047C896 /* MainStoryboard.storyboard */,
+				50A36EDA17412FB70047C896 /* FCAppDelegate.h */,
+				50A36EDB17412FB70047C896 /* FCAppDelegate.m */,
+				50A3A468176065A900A84241 /* Home */,
+				507D88C9175F67D9001E57B3 /* Flash Card tab */,
+				507D88C8175F67A7001E57B3 /* Dictionary tab */,
+				507D88C7175F6789001E57B3 /* Exercise tab */,
+				50085D301751D87E005F07BE /* Data Source */,
+				50A36ED217412FB70047C896 /* Supporting Files */,
+			);
+			path = "Flash Card";
+			sourceTree = "<group>";
+		};
+		50A36ED217412FB70047C896 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				50A36ED317412FB70047C896 /* Flash Card-Info.plist */,
+				50A36ED417412FB70047C896 /* InfoPlist.strings */,
+				50A36ED717412FB70047C896 /* main.m */,
+				50A36ED917412FB70047C896 /* Flash Card-Prefix.pch */,
+				50A36EDD17412FB70047C896 /* Default.png */,
+				50A36EDF17412FB70047C896 /* Default@2x.png */,
+				50A36EE117412FB70047C896 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		50A36EF517412FB70047C896 /* Flash CardTests */ = {
+			isa = PBXGroup;
+			children = (
+				50A36EFB17412FB70047C896 /* Flash_CardTests.h */,
+				50A36EFC17412FB70047C896 /* Flash_CardTests.m */,
+				50A36EF617412FB70047C896 /* Supporting Files */,
+			);
+			path = "Flash CardTests";
+			sourceTree = "<group>";
+		};
+		50A36EF617412FB70047C896 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				50A36EF717412FB70047C896 /* Flash CardTests-Info.plist */,
+				50A36EF817412FB70047C896 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		50A3A468176065A900A84241 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				50A3A4691760660600A84241 /* FCFirstViewController.h */,
+				50A3A46A1760660600A84241 /* FCFirstViewController.m */,
+				509DFAB317548816005417FC /* HPViewController.h */,
+				509DFAB417548816005417FC /* HPViewController.m */,
+			);
+			name = Home;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		50A36EC717412FB70047C896 /* Flash Card */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 50A36F0017412FB70047C896 /* Build configuration list for PBXNativeTarget "Flash Card" */;
+			buildPhases = (
+				50A36EC417412FB70047C896 /* Sources */,
+				50A36EC517412FB70047C896 /* Frameworks */,
+				50A36EC617412FB70047C896 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Flash Card";
+			productName = "Flash Card";
+			productReference = 50A36EC817412FB70047C896 /* Flash Card.app */;
+			productType = "com.apple.product-type.application";
+		};
+		50A36EED17412FB70047C896 /* Flash CardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 50A36F0317412FB70047C896 /* Build configuration list for PBXNativeTarget "Flash CardTests" */;
+			buildPhases = (
+				50A36EE917412FB70047C896 /* Sources */,
+				50A36EEA17412FB70047C896 /* Frameworks */,
+				50A36EEB17412FB70047C896 /* Resources */,
+				50A36EEC17412FB70047C896 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				50A36EF417412FB70047C896 /* PBXTargetDependency */,
+			);
+			name = "Flash CardTests";
+			productName = "Flash CardTests";
+			productReference = 50A36EEE17412FB70047C896 /* Flash CardTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		50A36EC017412FB70047C896 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = FC;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Albert;
+			};
+			buildConfigurationList = 50A36EC317412FB70047C896 /* Build configuration list for PBXProject "Flash Card" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 50A36EBF17412FB60047C896;
+			productRefGroup = 50A36EC917412FB70047C896 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				50A36EC717412FB70047C896 /* Flash Card */,
+				50A36EED17412FB70047C896 /* Flash CardTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		50A36EC617412FB70047C896 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50A36ED617412FB70047C896 /* InfoPlist.strings in Resources */,
+				50A36EDE17412FB70047C896 /* Default.png in Resources */,
+				50A36EE017412FB70047C896 /* Default@2x.png in Resources */,
+				50A36EE217412FB70047C896 /* Default-568h@2x.png in Resources */,
+				50A36EE517412FB70047C896 /* MainStoryboard.storyboard in Resources */,
+				50A36F071741302D0047C896 /* Property List.plist in Resources */,
+				507D88C2175DE070001E57B3 /* FlashCard.plist in Resources */,
+				504820BC1765F3A100A1950F /* 1001330_533632990019213_297972750_n.jpg in Resources */,
+				504820BE1765F3A100A1950F /* dic.jpg in Resources */,
+				504820C61765F61500A1950F /* button.png in Resources */,
+				504820C71765F61500A1950F /* card.png in Resources */,
+				504820C81765F61500A1950F /* din.png in Resources */,
+				504820C91765F61500A1950F /* pen.png in Resources */,
+				504820CA1765F61500A1950F /* photo1.png in Resources */,
+				504820CB1765F61500A1950F /* photo2.png in Resources */,
+				504820CC1765F61500A1950F /* wood.jpeg in Resources */,
+				504820CE1765F98D00A1950F /* fol (1).png in Resources */,
+				504820D01765FA1D00A1950F /* Icon 拷貝.png in Resources */,
+				504820D21765FA7E00A1950F /* App 57x57.png in Resources */,
+				50B673501766B6B400A8BC73 /* Icon.png in Resources */,
+				50B673521766BBD400A8BC73 /* icon2.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50A36EEB17412FB70047C896 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50A36EFA17412FB70047C896 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		50A36EEC17412FB70047C896 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		50A36EC417412FB70047C896 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50A36ED817412FB70047C896 /* main.m in Sources */,
+				50A36EDC17412FB70047C896 /* FCAppDelegate.m in Sources */,
+				50A36EE817412FB70047C896 /* FCViewController.m in Sources */,
+				50085D2C1751D66B005F07BE /* FCDictionaryViewController.m in Sources */,
+				50085D2F1751D866005F07BE /* FCDataSource.m in Sources */,
+				50085D331751DF6E005F07BE /* FCWordViewController.m in Sources */,
+				50E13ADE1753481F009DEE2E /* FCWordCell.m in Sources */,
+				509DFAB517548816005417FC /* HPViewController.m in Sources */,
+				507D88C5175F6769001E57B3 /* FCExerciseViewController.m in Sources */,
+				507D88D0175F6D87001E57B3 /* FCTableViewController.m in Sources */,
+				507D88D4175F6DA7001E57B3 /* FCFlashCell.m in Sources */,
+				50A3A46B1760660600A84241 /* FCFirstViewController.m in Sources */,
+				506515C41763A77900B11D32 /* Dictionary.xcdatamodeld in Sources */,
+				50E73DDB1764DCD8006F00D2 /* FlashCard.m in Sources */,
+				50EDA0B61765B5B000D19001 /* Dictionary.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50A36EE917412FB70047C896 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50A36EFD17412FB70047C896 /* Flash_CardTests.m in Sources */,
+				509DFAB617548816005417FC /* HPViewController.m in Sources */,
+				507D88C6175F6769001E57B3 /* FCExerciseViewController.m in Sources */,
+				507D88D1175F6D87001E57B3 /* FCTableViewController.m in Sources */,
+				507D88D5175F6DA7001E57B3 /* FCFlashCell.m in Sources */,
+				50A3A46C1760660600A84241 /* FCFirstViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		50A36EF417412FB70047C896 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 50A36EC717412FB70047C896 /* Flash Card */;
+			targetProxy = 50A36EF317412FB70047C896 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		50A36ED417412FB70047C896 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50A36ED517412FB70047C896 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		50A36EE317412FB70047C896 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50A36EE417412FB70047C896 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+		50A36EF817412FB70047C896 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				50A36EF917412FB70047C896 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		50A36EFE17412FB70047C896 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		50A36EFF17412FB70047C896 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		50A36F0117412FB70047C896 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Flash Card/Flash Card-Prefix.pch";
+				INFOPLIST_FILE = "Flash Card/Flash Card-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		50A36F0217412FB70047C896 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Flash Card/Flash Card-Prefix.pch";
+				INFOPLIST_FILE = "Flash Card/Flash Card-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		50A36F0417412FB70047C896 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Flash Card.app/Flash Card";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Flash Card/Flash Card-Prefix.pch";
+				INFOPLIST_FILE = "Flash CardTests/Flash CardTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		50A36F0517412FB70047C896 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Flash Card.app/Flash Card";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Flash Card/Flash Card-Prefix.pch";
+				INFOPLIST_FILE = "Flash CardTests/Flash CardTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		50A36EC317412FB70047C896 /* Build configuration list for PBXProject "Flash Card" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50A36EFE17412FB70047C896 /* Debug */,
+				50A36EFF17412FB70047C896 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		50A36F0017412FB70047C896 /* Build configuration list for PBXNativeTarget "Flash Card" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50A36F0117412FB70047C896 /* Debug */,
+				50A36F0217412FB70047C896 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		50A36F0317412FB70047C896 /* Build configuration list for PBXNativeTarget "Flash CardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50A36F0417412FB70047C896 /* Debug */,
+				50A36F0517412FB70047C896 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		506515C21763A77900B11D32 /* Dictionary.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				506515C31763A77900B11D32 /* Dictionary.xcdatamodel */,
+			);
+			currentVersion = 506515C31763A77900B11D32 /* Dictionary.xcdatamodel */;
+			name = Dictionary.xcdatamodeld;
+			path = ../Dictionary.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 50A36EC017412FB70047C896 /* Project object */;
+}

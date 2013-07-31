@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12E55" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Dictionary" representedClassName="Dictionary" syncable="YES">
+        <attribute name="antonym" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="chinese" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eng" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="synonym" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="FlashCard" representedClassName="FlashCard" syncable="YES">
+        <attribute name="antonym" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="chinese" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eng" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="synonym" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Dictionary" positionX="160" positionY="195" width="128" height="105"/>
+        <element name="FlashCard" positionX="-47" positionY="195" width="128" height="105"/>
+    </elements>
+</model>

@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Word</key>
+		<string>apple</string>
+		<key>Chinese</key>
+		<string>蘋果</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>abandon</string>
+		<key>Chinese</key>
+		<string>拋棄 遺棄 終止</string>
+		<key>Synonym</key>
+		<string>leave depart discard surrender</string>
+		<key>Antonym</key>
+		<string>maintain retain conserve acquire support attempt</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>abbreviate</string>
+		<key>Chinese</key>
+		<string>縮寫 省略 使簡短</string>
+		<key>Synonym</key>
+		<string>shorten cut reduce compress</string>
+		<key>Antonym</key>
+		<string>lengthen</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>academic</string>
+		<key>Chinese</key>
+		<string>大學的 學院的 學術的</string>
+		<key>Synonym</key>
+		<string>theoretical scientific literary</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>accelerate</string>
+		<key>Chinese</key>
+		<string>加速 促使 促進 增加</string>
+		<key>Synonym</key>
+		<string>hurry quicken rush</string>
+		<key>Antonym</key>
+		<string>decelerate</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>back</string>
+		<key>Chinese</key>
+		<string>背脊 後部 後面 背面</string>
+		<key>Synonym</key>
+		<string>rear end tail</string>
+		<key>Antonym</key>
+		<string>front forth fore</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>bag</string>
+		<key>Chinese</key>
+		<string>袋 提袋 </string>
+		<key>Synonym</key>
+		<string>pocket purse backpack case</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>balloon</string>
+		<key>Chinese</key>
+		<string>氣球</string>
+		<key>Synonym</key>
+		<string>aerostat</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>bear</string>
+		<key>Chinese</key>
+		<string>支持 承受 承擔 忍受 具有 帶有</string>
+		<key>Synonym</key>
+		<string>carry hold yield endure</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>beg</string>
+		<key>Chinese</key>
+		<string>乞討 行乞 拜託</string>
+		<key>Synonym</key>
+		<string>appeal request ask pray</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>cab</string>
+		<key>Chinese</key>
+		<string>計程車</string>
+		<key>Synonym</key>
+		<string>taxi</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>central</string>
+		<key>Chinese</key>
+		<string>中心的 中央的 主要的 核心的</string>
+		<key>Synonym</key>
+		<string>main principal cardinal</string>
+		<key>Antonym</key>
+		<string>marginal</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>chief</string>
+		<key>Chinese</key>
+		<string>首領 長官 領袖 酋長 主要的</string>
+		<key>Synonym</key>
+		<string>leader head authority central</string>
+		<key>Antonym</key>
+		<string>subordinate</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>contradict</string>
+		<key>Chinese</key>
+		<string>否認 反駁 駁斥 反對 矛盾 抵觸</string>
+		<key>Synonym</key>
+		<string>deny oppose differ negative</string>
+		<key>Antonym</key>
+		<string>admit recognize acknowledge confirm agree</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>curve</string>
+		<key>Chinese</key>
+		<string>曲線 弧線 彎曲</string>
+		<key>Synonym</key>
+		<string>bend turn curl twist</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>deliver</string>
+		<key>Chinese</key>
+		<string>傳送 運送 發表 宣布 投遞</string>
+		<key>Synonym</key>
+		<string>transfer pass give express communicate recite</string>
+		<key>Antonym</key>
+		<string>collect withdraw</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>dictate</string>
+		<key>Chinese</key>
+		<string>口述 命令 支配</string>
+		<key>Synonym</key>
+		<string>order demand direct instruct rule charge</string>
+		<key>Antonym</key>
+		<string>obey submit</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>disgrace</string>
+		<key>Chinese</key>
+		<string>丟臉 恥辱 不光彩 丟臉</string>
+		<key>Synonym</key>
+		<string>shame dishonor humiliate embarrass contempt</string>
+		<key>Antonym</key>
+		<string>honor grace glory</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>donate</string>
+		<key>Chinese</key>
+		<string>捐贈 捐獻</string>
+		<key>Synonym</key>
+		<string>give present award</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>dumb</string>
+		<key>Chinese</key>
+		<string>啞的 無言的 無聲的 愚蠢的</string>
+		<key>Synonym</key>
+		<string>silent mute speechless stupid dull</string>
+		<key>Antonym</key>
+		<string>smart</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>dusk</string>
+		<key>Chinese</key>
+		<string>傍晚 黃昏</string>
+		<key>Synonym</key>
+		<string>sundown sunset twilight evening shade dark gloom</string>
+		<key>Antonym</key>
+		<string>dawn</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>eager</string>
+		<key>Chinese</key>
+		<string>渴望的 熱心的 熱切的</string>
+		<key>Synonym</key>
+		<string>wanting wishing desirous keen willing impatient</string>
+		<key>Antonym</key>
+		<string>indifferent uninterested impassive</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>elite</string>
+		<key>Chinese</key>
+		<string>精英 精華</string>
+		<key>Synonym</key>
+		<string>valuable</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>employ</string>
+		<key>Chinese</key>
+		<string>雇用 利用 使用</string>
+		<key>Synonym</key>
+		<string>hire engage contract occupy</string>
+		<key>Antonym</key>
+		<string>dismiss</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>endure</string>
+		<key>Chinese</key>
+		<string>忍耐 容忍 忍受 持續</string>
+		<key>Synonym</key>
+		<string>last continue persist remain stay stand bear</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>evade</string>
+		<key>Chinese</key>
+		<string>躲避 逃避 回避</string>
+		<key>Synonym</key>
+		<string>avoid escape miss</string>
+		<key>Antonym</key>
+		<string>approach</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>fable</string>
+		<key>Chinese</key>
+		<string>寓言 神話 虛構 撒謊 無稽之談</string>
+		<key>Synonym</key>
+		<string>story legend myth fiction fairy tale fantasy</string>
+		<key>Antonym</key>
+		<string>fact</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>fabric</string>
+		<key>Chinese</key>
+		<string>織品 布料 結構 組織 建築</string>
+		<key>Synonym</key>
+		<string>cloth goods textile material tissue framework</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>fellow</string>
+		<key>Chinese</key>
+		<string>傢伙（口語）伙伴 同事 同事的</string>
+		<key>Synonym</key>
+		<string>man guy companion mate partner</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>fertilize</string>
+		<key>Chinese</key>
+		<string>施肥 使受精</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>sterilize</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>future</string>
+		<key>Chinese</key>
+		<string>未來 將來 前途 未來的</string>
+		<key>Synonym</key>
+		<string>tomorrow prospects</string>
+		<key>Antonym</key>
+		<string>past present</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>gain</string>
+		<key>Chinese</key>
+		<string>得到 獲得 獲利 增加</string>
+		<key>Synonym</key>
+		<string>get obtain acquire earn</string>
+		<key>Antonym</key>
+		<string>lose loss</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>gang</string>
+		<key>Chinese</key>
+		<string>歹徒 一群</string>
+		<key>Synonym</key>
+		<string>group crew party</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>gender</string>
+		<key>Chinese</key>
+		<string>性別</string>
+		<key>Synonym</key>
+		<string>sex</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>generous</string>
+		<key>Chinese</key>
+		<string>慷慨的 大方的 寬宏大量的 豐富的</string>
+		<key>Synonym</key>
+		<string>kind large plentiful extensive</string>
+		<key>Antonym</key>
+		<string>mean miserly</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>ghetto</string>
+		<key>Chinese</key>
+		<string>平民區 猶太人街</string>
+		<key>Synonym</key>
+		<string>slum</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>habitat</string>
+		<key>Chinese</key>
+		<string>棲息地 產地</string>
+		<key>Synonym</key>
+		<string>environment surroundings home</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>hack</string>
+		<key>Chinese</key>
+		<string>劈 砍 開闢 對付 出租</string>
+		<key>Synonym</key>
+		<string>cut split</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>hallow</string>
+		<key>Chinese</key>
+		<string>神聖的 崇敬</string>
+		<key>Synonym</key>
+		<string>worship honour esteem glorify</string>
+		<key>Antonym</key>
+		<string>stain</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>heist</string>
+		<key>Chinese</key>
+		<string>強奪 搶劫</string>
+		<key>Synonym</key>
+		<string>rob</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>horizon</string>
+		<key>Chinese</key>
+		<string>地平線 範圍 眼界 視野</string>
+		<key>Synonym</key>
+		<string>perspective</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>icon</string>
+		<key>Chinese</key>
+		<string>畫像 雕像 塑像 圖像</string>
+		<key>Synonym</key>
+		<string>portrait</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>identity</string>
+		<key>Chinese</key>
+		<string>身份 本體 一致 相同的 特性</string>
+		<key>Synonym</key>
+		<string>personality nature</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>idiot</string>
+		<key>Chinese</key>
+		<string>白癡 笨蛋</string>
+		<key>Synonym</key>
+		<string>moron fool</string>
+		<key>Antonym</key>
+		<string>genius</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>ignite</string>
+		<key>Chinese</key>
+		<string>點燃 激起 使燃燒 發火</string>
+		<key>Synonym</key>
+		<string>burn light kindle fire</string>
+		<key>Antonym</key>
+		<string>extinguish</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>imitate</string>
+		<key>Chinese</key>
+		<string>模仿 仿製 偽造</string>
+		<key>Synonym</key>
+		<string>trace copy duplicate mimic mock</string>
+		<key>Antonym</key>
+		<string>create invent</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>insomnia</string>
+		<key>Chinese</key>
+		<string>失眠 不眠症</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>jacinth</string>
+		<key>Chinese</key>
+		<string>橘紅色:橘寶石</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>jelousy</string>
+		<key>Chinese</key>
+		<string>嫉妒:戒備</string>
+		<key>Synonym</key>
+		<string>spite</string>
+		<key>Antonym</key>
+		<string>tolerance</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>jounce</string>
+		<key>Chinese</key>
+		<string>震動</string>
+		<key>Synonym</key>
+		<string>joit</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>journal</string>
+		<key>Chinese</key>
+		<string>日誌</string>
+		<key>Synonym</key>
+		<string>diary</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>jubilant</string>
+		<key>Chinese</key>
+		<string>喜氣洋洋的</string>
+		<key>Synonym</key>
+		<string>triumphant</string>
+		<key>Antonym</key>
+		<string>sorrow</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>keek</string>
+		<key>Chinese</key>
+		<string>窺</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>koala</string>
+		<key>Chinese</key>
+		<string>無尾熊</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>knowledge</string>
+		<key>Chinese</key>
+		<string>知識</string>
+		<key>Synonym</key>
+		<string>erudition</string>
+		<key>Antonym</key>
+		<string>ignorance</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>knickers</string>
+		<key>Chinese</key>
+		<string>燈籠褲</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>knock</string>
+		<key>Chinese</key>
+		<string>相撞:敲</string>
+		<key>Synonym</key>
+		<string>strike</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>label</string>
+		<key>Chinese</key>
+		<string>標記;符號</string>
+		<key>Synonym</key>
+		<string>signal</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>literal</string>
+		<key>Chinese</key>
+		<string>如實的;照字面的</string>
+		<key>Synonym</key>
+		<string>plain</string>
+		<key>Antonym</key>
+		<string>figurative</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>load</string>
+		<key>Chinese</key>
+		<string>裝載;工作量</string>
+		<key>Synonym</key>
+		<string>stuff</string>
+		<key>Antonym</key>
+		<string>unload</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>lunacy</string>
+		<key>Chinese</key>
+		<string>精神失常</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>libeler</string>
+		<key>Chinese</key>
+		<string>毀謗者</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>moanful</string>
+		<key>Chinese</key>
+		<string>悲嘆的</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>macaber</string>
+		<key>Chinese</key>
+		<string>可怕的;恐怖的</string>
+		<key>Synonym</key>
+		<string>horror</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>mean</string>
+		<key>Chinese</key>
+		<string>小氣的</string>
+		<key>Synonym</key>
+		<string>petty</string>
+		<key>Antonym</key>
+		<string>noble</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>haphazard</string>
+		<key>Chinese</key>
+		<string>隨意;偶然的</string>
+		<key>Synonym</key>
+		<string>casual</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>much</string>
+		<key>Chinese</key>
+		<string>大量;非常</string>
+		<key>Synonym</key>
+		<string>quantity</string>
+		<key>Antonym</key>
+		<string>little</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>nibbler</string>
+		<key>Chinese</key>
+		<string>吹毛求疵;細咬</string>
+		<key>Synonym</key>
+		<string>chew</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>nourish</string>
+		<key>Chinese</key>
+		<string>養育;滋養</string>
+		<key>Synonym</key>
+		<string>nurture</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>nuture</string>
+		<key>Chinese</key>
+		<string>營養物</string>
+		<key>Synonym</key>
+		<string>foster</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>nap</string>
+		<key>Chinese</key>
+		<string>小睡</string>
+		<key>Synonym</key>
+		<string>doze</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>nation</string>
+		<key>Chinese</key>
+		<string>國家;國民</string>
+		<key>Synonym</key>
+		<string>country</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>object</string>
+		<key>Chinese</key>
+		<string>目標;物體</string>
+		<key>Synonym</key>
+		<string>target</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>ooponent</string>
+		<key>Chinese</key>
+		<string>對手</string>
+		<key>Synonym</key>
+		<string>competitor</string>
+		<key>Antonym</key>
+		<string>association</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>option</string>
+		<key>Chinese</key>
+		<string>選擇</string>
+		<key>Synonym</key>
+		<string>alternative</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>ought</string>
+		<key>Chinese</key>
+		<string>應該</string>
+		<key>Synonym</key>
+		<string>should</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>obedience</string>
+		<key>Chinese</key>
+		<string>順從</string>
+		<key>Synonym</key>
+		<string>compliance</string>
+		<key>Antonym</key>
+		<string>resistance</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>probability</string>
+		<key>Chinese</key>
+		<string>可能性</string>
+		<key>Synonym</key>
+		<string>likelihood</string>
+		<key>Antonym</key>
+		<string>improbability</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>possibility</string>
+		<key>Chinese</key>
+		<string>可能性;發展前途</string>
+		<key>Synonym</key>
+		<string>potentiality</string>
+		<key>Antonym</key>
+		<string>impossibility</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>plausibility</string>
+		<key>Chinese</key>
+		<string>貌似可性</string>
+		<key>Synonym</key>
+		<string>color</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>pleasure</string>
+		<key>Chinese</key>
+		<string>愉快;樂極</string>
+		<key>Synonym</key>
+		<string>elation</string>
+		<key>Antonym</key>
+		<string>misfortune</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>physical</string>
+		<key>Chinese</key>
+		<string>身體的;自然的</string>
+		<key>Synonym</key>
+		<string>incarnate</string>
+		<key>Antonym</key>
+		<string>spiritual</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>quite</string>
+		<key>Chinese</key>
+		<string>完全;徹底</string>
+		<key>Synonym</key>
+		<string>completely</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>quack</string>
+		<key>Chinese</key>
+		<string>呱呱叫</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>quackishly</string>
+		<key>Chinese</key>
+		<string>庸醫地;胡吹的</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>quail</string>
+		<key>Chinese</key>
+		<string>少女;鵪鶉</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>quilifier</string>
+		<key>Chinese</key>
+		<string>合格者;修飾語</string>
+		<key>Synonym</key>
+		<string>nil</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>rule</string>
+		<key>Chinese</key>
+		<string>規則;尺</string>
+		<key>Synonym</key>
+		<string>measure</string>
+		<key>Antonym</key>
+		<string>exception</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>reign</string>
+		<key>Chinese</key>
+		<string>支配</string>
+		<key>Synonym</key>
+		<string>prevail</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>react</string>
+		<key>Chinese</key>
+		<string>反應</string>
+		<key>Synonym</key>
+		<string>respond</string>
+		<key>Antonym</key>
+		<string>nil</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>reply</string>
+		<key>Chinese</key>
+		<string>回答;答覆</string>
+		<key>Synonym</key>
+		<string>retort</string>
+		<key>Antonym</key>
+		<string>inquire</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>republic</string>
+		<key>Chinese</key>
+		<string>共和國</string>
+		<key>Synonym</key>
+		<string>democracy</string>
+		<key>Antonym</key>
+		<string>monarchy</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>sarcasm</string>
+		<key>Chinese</key>
+		<string>諷刺</string>
+		<key>Synonym</key>
+		<string>Irony</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>scale</string>
+		<key>Chinese</key>
+		<string>尺度</string>
+		<key>Synonym</key>
+		<string>levels</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>sea</string>
+		<key>Chinese</key>
+		<string>海洋</string>
+		<key>Synonym</key>
+		<string>ocean</string>
+		<key>Antonym</key>
+		<string>land</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>shadow</string>
+		<key>Chinese</key>
+		<string>影子</string>
+		<key>Synonym</key>
+		<string>cloud</string>
+		<key>Antonym</key>
+		<string>sunshine</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>sibling</string>
+		<key>Chinese</key>
+		<string>兄弟姐妹</string>
+		<key>Synonym</key>
+		<string>relative</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>skateboard</string>
+		<key>Chinese</key>
+		<string>滑板</string>
+		<key>Synonym</key>
+		<string>relative</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>table</string>
+		<key>Chinese</key>
+		<string>桌子 臺子 表格</string>
+		<key>Synonym</key>
+		<string>list chart index schedule</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>tea</string>
+		<key>Chinese</key>
+		<string>茶 茶葉</string>
+		<key>Synonym</key>
+		<string>relative</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>than</string>
+		<key>Chinese</key>
+		<string>比較 比</string>
+		<key>Synonym</key>
+		<string>relative</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>tickle</string>
+		<key>Chinese</key>
+		<string>發痒 發癢</string>
+		<key>Synonym</key>
+		<string>excite entertain</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>teach</string>
+		<key>Chinese</key>
+		<string>教 教導</string>
+		<key>Synonym</key>
+		<string>instruct educate</string>
+		<key>Antonym</key>
+		<string>learn</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>tell</string>
+		<key>Chinese</key>
+		<string>告訴 說 </string>
+		<key>Synonym</key>
+		<string>announce forecast answer</string>
+		<key>Antonym</key>
+		<string>hear listen</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>ugly</string>
+		<key>Chinese</key>
+		<string>醜的 難看的</string>
+		<key>Synonym</key>
+		<string>plain homely unattractive</string>
+		<key>Antonym</key>
+		<string>beautiful handsome</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>ultimatum</string>
+		<key>Chinese</key>
+		<string>最後通牒</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>under</string>
+		<key>Chinese</key>
+		<string>下 下面 下方</string>
+		<key>Synonym</key>
+		<string>below lower down</string>
+		<key>Antonym</key>
+		<string>over</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>unable</string>
+		<key>Chinese</key>
+		<string>無法 不能的 不會的</string>
+		<key>Synonym</key>
+		<string>incapable unqualified</string>
+		<key>Antonym</key>
+		<string>able capable</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>up</string>
+		<key>Chinese</key>
+		<string>上 向上 往上</string>
+		<key>Synonym</key>
+		<string>above upwards</string>
+		<key>Antonym</key>
+		<string>down</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>unacceptable</string>
+		<key>Chinese</key>
+		<string>不能接受的 不受歡迎的</string>
+		<key>Synonym</key>
+		<string>unsuitable undesirable</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>vacant</string>
+		<key>Chinese</key>
+		<string>空的 空白的</string>
+		<key>Synonym</key>
+		<string>unoccupied empty void</string>
+		<key>Antonym</key>
+		<string>full</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>vain</string>
+		<key>Chinese</key>
+		<string>自負的</string>
+		<key>Synonym</key>
+		<string>unsuccessful ineffectual</string>
+		<key>Antonym</key>
+		<string>effectual effective</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>valuable</string>
+		<key>Chinese</key>
+		<string>值錢 貴重的</string>
+		<key>Synonym</key>
+		<string>costly expensive</string>
+		<key>Antonym</key>
+		<string>valueless invaluable</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>vendor</string>
+		<key>Chinese</key>
+		<string>小販 叫賣者</string>
+		<key>Synonym</key>
+		<string>seller salesman</string>
+		<key>Antonym</key>
+		<string>vendee</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>voice</string>
+		<key>Chinese</key>
+		<string>聲音 語音</string>
+		<key>Synonym</key>
+		<string>express say utter</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>vocal</string>
+		<key>Chinese</key>
+		<string>聲的 聲音的</string>
+		<key>Synonym</key>
+		<string>spoken said</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>wage</string>
+		<key>Chinese</key>
+		<string>薪水 </string>
+		<key>Synonym</key>
+		<string>pay payment salary</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>waist</string>
+		<key>Chinese</key>
+		<string>腰 腰部</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>word</string>
+		<key>Chinese</key>
+		<string>詞 單字</string>
+		<key>Synonym</key>
+		<string>phrase say express</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>world</string>
+		<key>Chinese</key>
+		<string>世界 地球</string>
+		<key>Synonym</key>
+		<string>universe globe earth</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>wharf</string>
+		<key>Chinese</key>
+		<string>碼頭</string>
+		<key>Synonym</key>
+		<string>pier dock dock harbor</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>waste</string>
+		<key>Chinese</key>
+		<string>浪費</string>
+		<key>Synonym</key>
+		<string>spend consume</string>
+		<key>Antonym</key>
+		<string>save accumulate</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>xenophile</string>
+		<key>Chinese</key>
+		<string>喜歡外國人</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>x-ray</string>
+		<key>Chinese</key>
+		<string>x光照片 x光檢查</string>
+		<key>Synonym</key>
+		<string>photograph</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>xenophobia</string>
+		<key>Chinese</key>
+		<string>排外主義</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>xerography</string>
+		<key>Chinese</key>
+		<string>靜電複印</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>xenobiology</string>
+		<key>Chinese</key>
+		<string>外空生物學</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>xerostomia</string>
+		<key>Chinese</key>
+		<string>口乾</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>yacht</string>
+		<key>Chinese</key>
+		<string>遊艇</string>
+		<key>Synonym</key>
+		<string>boat</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>young</string>
+		<key>Chinese</key>
+		<string>年輕的 幼輕的</string>
+		<key>Synonym</key>
+		<string>youthful</string>
+		<key>Antonym</key>
+		<string>old</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>you</string>
+		<key>Chinese</key>
+		<string>你 你們</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>yoghurt</string>
+		<key>Chinese</key>
+		<string>酸奶</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>yielding</string>
+		<key>Chinese</key>
+		<string>聽從的 法產的</string>
+		<key>Synonym</key>
+		<string>conformable accession</string>
+		<key>Antonym</key>
+		<string>unyielding</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>yield</string>
+		<key>Chinese</key>
+		<string>出產</string>
+		<key>Synonym</key>
+		<string>produce give grant</string>
+		<key>Antonym</key>
+		<string>overcome</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>zebra</string>
+		<key>Chinese</key>
+		<string>斑馬</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>zany</string>
+		<key>Chinese</key>
+		<string>笨人 滑稽的</string>
+		<key>Synonym</key>
+		<string>foolish clownish</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>zenith</string>
+		<key>Chinese</key>
+		<string>天頂 極盛</string>
+		<key>Synonym</key>
+		<string>peak summit</string>
+		<key>Antonym</key>
+		<string>nadir</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>zinc</string>
+		<key>Chinese</key>
+		<string>鋅</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+	<dict>
+		<key>Word</key>
+		<string>zombie</string>
+		<key>Chinese</key>
+		<string>殭屍</string>
+		<key>Synonym</key>
+		<string>N/A</string>
+		<key>Antonym</key>
+		<string>N/A</string>
+	</dict>
+</array>
+</plist>
